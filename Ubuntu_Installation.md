@@ -25,7 +25,7 @@
 >  None of your current operating files will be affected. Rest Assured!
  - [ ] CONGRATULATIONS! You have Successfully installed Ubuntu 18.04 as your Virtual Machine!
 
- ##  Step 3 - Before we get started
+ ##  Step 4 - Before we get started
  > Here are some tips and tricks that will help you get a better experience in Ubuntu
 
  - [ ] Keeping your Clipboard Bi-directional from Windows to Virtual Machine and Vice-verse.
