@@ -1,4 +1,4 @@
-# ROS-Simulation-of-Drone-Flight
+# Jishnu
 Using ROS to implement 2D navigation for the simulation of an autonomous drone in flight.
 
 ## Prerequisites
