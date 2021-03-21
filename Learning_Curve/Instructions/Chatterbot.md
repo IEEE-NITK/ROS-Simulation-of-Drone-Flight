@@ -13,7 +13,7 @@ cd ros_ws/src/ROS-Simulation-of-Drone-Flight
 All the projects and setup will be set on the master branch. So to start your work, always first pull the master branch by using the following command - 
 
 ```bash
-git pull origin master
+git pull origin main
 ```
 
 After the pull is completed, you will see a new folder named "Learning_Curve". Inside it will be a folder named "Instructions". Navigate there by using the following commands
