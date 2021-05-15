@@ -5,7 +5,7 @@ So now's when we move into earnestly moving onto what will be the main goal of t
 ## Step 1 - Pull the Branch
 Go to your project directory
 ```bash
-cd ros_ws/src/ROS-Simulation-of-Drone-Flight
+cd ros_ws/src/ROS-Simulation-of-Mobile-Robot
 ```
 All the projects and setup will be set on the master branch. So to start your work, always first pull the master branch by using the following command - 
 
@@ -49,7 +49,7 @@ Here we see that this message contains 3 linear components and 3 angular compone
 ## Step 3 - Writing the Python Script
 Create and build a new package by running the following commands in succession:
 ```bash
-cd ~/ros_ws/src/ROS-Simulation-of-Drone-Flight/Learning_Curve/
+cd ~/ros_ws/src/ROS-Simulation-of-Mobile-Robot/Learning_Curve/
 catkin_create_pkg circlebot 
 catkin build
 cd circlebot

@@ -8,7 +8,7 @@ So, lets begin!
 ## Step 1 - Pull the Branch
 Go to your project directory
 ```bash
-cd ros_ws/src/ROS-Simulation-of-Drone-Flight
+cd ros_ws/src/ROS-Simulation-of-Mobile-Robot
 ```
 All the projects and setup will be set on the master branch. So to start your work, always first pull the master branch by using the following command - 
 
@@ -30,7 +30,7 @@ Its about time we started working with packages on our systems. To do so, first 
 source ~/ros_ws/devel/setup.bash
 ```
 
-*Now, make sure you are in the correct directory, "ros_ws/src/ROS-Simulation-of-Drone-Flight/Learning_Curve/*"
+*Now, make sure you are in the correct directory, "ros_ws/src/ROS-Simulation-of-Mobile-Robot/Learning_Curve/*"
 
 To create a package, run the following command:
 ```bash
