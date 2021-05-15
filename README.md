@@ -1,9 +1,9 @@
-# ROS-Simulation-of-Drone-Flight
-Using ROS to implement 2D navigation for the simulation of a differntial drive robot in flight.
+# ROS-Simulation-of-Mobile-Robot
+Using ROS to implement 2D navigation for the simulation of a differential drive robot in motion.
 
 ## Prerequisites
-> Ubuntu Installation Readme - [(link)](https://github.com/IEEE-NITK/ROS_Simulation_of_Drone_Flight/blob/main/Ubuntu_Installation_Virtual_Box.md/)   
+> Ubuntu Installation Readme - [(link)](https://github.com/IEEE-NITK/ROS-Simulation-of-Mobile-Robot/blob/main/Ubuntu_Installation_Virtual_Box.md/)   
 
-> ROS Installation Readme - [(link)](https://github.com/IEEE-NITK/ROS_Simulation_of_Drone_Flight/blob/main/ROS_Installation.md/)   
+> ROS Installation Readme - [(link)](https://github.com/IEEE-NITK/ROS-Simulation-of-Mobile-Robot/blob/main/ROS_Installation.md/)   
 
-> GitHub Setup Readme - [(link)](https://github.com/IEEE-NITK/ROS-Simulation-of-Drone-Flight/blob/main/GitHub_Setup.md/)
+> GitHub Setup Readme - [(link)](https://github.com/IEEE-NITK/ROS-Simulation-of-Mobile-Robot/blob/main/GitHub_Setup.md/)
