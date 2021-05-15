@@ -9,7 +9,7 @@ Obviously first step will be to cloning the repository. Go to your workspace and
 
 ```bash
 cd ros_ws/src
-git clone https://github.com/IEEE-NITK/ROS-Simulation-of-Drone-Flight.git
+git clone https://github.com/IEEE-NITK/ROS-Simulation-of-Mobile-Robot.git
 ```
 
 ## Step 2 - Change Readme File
@@ -17,7 +17,7 @@ git clone https://github.com/IEEE-NITK/ROS-Simulation-of-Drone-Flight.git
 Now that you have the contents of the repository, time to change things to your repository. Lets start with naming yourself in the Readme File. Head over to the folder and open the folder in visual studio code
 
 ```scala
-cd ROS-Simulation-of-Drone-Flight/
+cd ROS-Simulation-of-Mobile-Robot/
 code .
 ```
  Now in your Readme File change your line 1 to - 
