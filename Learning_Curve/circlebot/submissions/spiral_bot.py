@@ -3,8 +3,8 @@
 import rospy
 from geometry_msgs.msg import Twist
 
-def circle():
-    rospy.init_node('circle_node', anonymous=True)
+def spiral():
+    rospy.init_node('spiral_node', anonymous=True)
     pub = rospy.Publisher('/turtle1/cmd_vel', Twist, queue_size=10)
     velocity = Twist()
     rate = rospy.Rate(10) #10Hz
@@ -24,6 +24,6 @@ def circle():
 
 if __name__=='__main__':
     try:
-        circle()
+        spiral()
     except rospy.ROSInterruptException:
         pass
