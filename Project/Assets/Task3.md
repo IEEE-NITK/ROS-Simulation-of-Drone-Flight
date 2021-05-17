@@ -20,6 +20,11 @@ The _move_base ROS Node_, is a major component of the navigation stack which all
  
 ## 3. The Code
 
+Make a file -   
+> gotogoal.py    
+
+and add the following contents -   
+
 ```python
 #!/usr/bin/env python
 # license removed for brevity
