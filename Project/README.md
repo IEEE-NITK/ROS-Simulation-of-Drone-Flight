@@ -9,3 +9,4 @@ The robot URDF is fully configured for use, with a laser scanner and differentia
 ### 3. [Task 2.1](Assets/Task2.1.md) - Costmaps in Navigation
 ### 4. [Task 2.2](Assets/Task2.2.md) - Planners in Navigation
 ### 5. [Task 2.3](Assets/Task2.3.md) - MoveBase Client
+### 6. [Task 3](Assets/Task3.md) - Sending Goals using Python Script
