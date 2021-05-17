@@ -17,4 +17,4 @@ Initially, the robot must spawn at the point having coordinates [-4.1 , 2.4]. Th
 
 The submission should be in a video format and be in this format - 
 
-![](Images/Vid.mp4)
+[![](Images/problem_statemnet.png)](Images/Vid.mp4)

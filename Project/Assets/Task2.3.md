@@ -45,7 +45,14 @@ add the following contents:
 ```
 
 A detailed overview on all the parameters can be found here - 
-http://wiki.ros.org/move_base
+http://wiki.ros.org/move_base   
+
+
+Finally, add the following line in envision.launch in your diff_drive_simulation package:   
+
+```xml
+  <include file="$(find diff_drive_navigation)/launch/nav.launch" />
+```
 
 ## Sending Goals
 
