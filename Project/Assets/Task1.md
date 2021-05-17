@@ -55,6 +55,23 @@ Turtlebot3
 ```bash
 sudo apt-get install ros-melodic-turtlebot3
 ```
+
+
+### 2.1.1. Setting up Turtlebot
+
+Since we are using turtlebot3 waffle for the entire project, we need to make sure it is selected in our parameter server.
+To do so, do the following:
+
+```bash
+code ~/.bashrc
+```
+
+In the last line of this .bashrc file, write the following line- 
+```json
+export TURTLEBOT3_MODEL=waffle
+```
+
+
 ### 2.2. Create Package
 First thing towards any project is to create a package, go to your directory where all the other diff_drive packages are (diff_drive_description and diff_drive_simulation). Create a new package with the name:
 > diff_drive_navigation
